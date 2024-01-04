@@ -1,6 +1,3 @@
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>
-
 
 ### Hi there 👋,  I'm Munna
 #### WordPress Developer
@@ -15,7 +12,8 @@ Skills: PHP / HTML / CSS/JS
 - 🌱 I’m currently learning javascript 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about WordPress Developer 
-
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>
 
 (https://www.facebook.com/MunnaO2)  
 
